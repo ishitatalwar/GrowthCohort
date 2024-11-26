@@ -1,0 +1,8 @@
+//assignment 1 
+// question 1 : create a counter in js that counts down from 30 to 0 
+
+// question 2 : calculate the time it takes between a set timeout call 
+// and the inner function actually running
+
+// question 3 : create a terminal clock (HH:MM:SS)
+
